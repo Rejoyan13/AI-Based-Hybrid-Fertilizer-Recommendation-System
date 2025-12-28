@@ -2,11 +2,7 @@
 
 # 🌱 AI-Based Hybrid Fertilizer Recommendation System
 
-**GitHub repo size:** –  
-**Contributors:** –  
-**GitHub stars:** –  
 
----
 
 ## 🚀 Project Overview
 
